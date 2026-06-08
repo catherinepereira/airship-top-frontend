@@ -1,0 +1,1472 @@
+[
+  {
+    "name": "BedWars 2",
+    "gameId": "bedwars-2",
+    "players": 43,
+    "game24hrPeak": 50,
+    "record": 50,
+    "recordDate": "2026-04-30T20:17:00.000Z",
+    "playerCounts": [
+      {
+        "timestamp": "2026-06-08T19:15:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:16:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:17:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:18:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:19:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:20:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:21:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:22:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:23:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:24:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:25:44.073Z",
+        "players": 37
+      },
+      {
+        "timestamp": "2026-06-08T19:26:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:27:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:28:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:29:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:30:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:31:44.073Z",
+        "players": 37
+      },
+      {
+        "timestamp": "2026-06-08T19:32:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:33:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:34:44.073Z",
+        "players": 37
+      },
+      {
+        "timestamp": "2026-06-08T19:35:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:36:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:37:44.073Z",
+        "players": 38
+      },
+      {
+        "timestamp": "2026-06-08T19:38:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:39:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:40:44.073Z",
+        "players": 40
+      },
+      {
+        "timestamp": "2026-06-08T19:41:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:42:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:43:44.073Z",
+        "players": 39
+      },
+      {
+        "timestamp": "2026-06-08T19:44:44.073Z",
+        "players": 41
+      },
+      {
+        "timestamp": "2026-06-08T19:45:44.073Z",
+        "players": 41
+      },
+      {
+        "timestamp": "2026-06-08T19:46:44.073Z",
+        "players": 40
+      },
+      {
+        "timestamp": "2026-06-08T19:47:44.073Z",
+        "players": 41
+      },
+      {
+        "timestamp": "2026-06-08T19:48:44.073Z",
+        "players": 40
+      },
+      {
+        "timestamp": "2026-06-08T19:49:44.073Z",
+        "players": 40
+      },
+      {
+        "timestamp": "2026-06-08T19:50:44.073Z",
+        "players": 41
+      },
+      {
+        "timestamp": "2026-06-08T19:51:44.073Z",
+        "players": 42
+      },
+      {
+        "timestamp": "2026-06-08T19:52:44.073Z",
+        "players": 42
+      },
+      {
+        "timestamp": "2026-06-08T19:53:44.073Z",
+        "players": 42
+      },
+      {
+        "timestamp": "2026-06-08T19:54:44.073Z",
+        "players": 42
+      },
+      {
+        "timestamp": "2026-06-08T19:55:44.073Z",
+        "players": 43
+      },
+      {
+        "timestamp": "2026-06-08T19:56:44.073Z",
+        "players": 44
+      },
+      {
+        "timestamp": "2026-06-08T19:57:44.073Z",
+        "players": 44
+      },
+      {
+        "timestamp": "2026-06-08T19:58:44.073Z",
+        "players": 44
+      },
+      {
+        "timestamp": "2026-06-08T19:59:44.073Z",
+        "players": 45
+      },
+      {
+        "timestamp": "2026-06-08T20:00:44.073Z",
+        "players": 44
+      },
+      {
+        "timestamp": "2026-06-08T20:01:44.073Z",
+        "players": 45
+      },
+      {
+        "timestamp": "2026-06-08T20:02:44.073Z",
+        "players": 45
+      },
+      {
+        "timestamp": "2026-06-08T20:03:44.073Z",
+        "players": 45
+      },
+      {
+        "timestamp": "2026-06-08T20:04:44.073Z",
+        "players": 46
+      },
+      {
+        "timestamp": "2026-06-08T20:05:44.073Z",
+        "players": 47
+      },
+      {
+        "timestamp": "2026-06-08T20:06:44.073Z",
+        "players": 47
+      },
+      {
+        "timestamp": "2026-06-08T20:07:44.073Z",
+        "players": 47
+      },
+      {
+        "timestamp": "2026-06-08T20:08:44.073Z",
+        "players": 46
+      },
+      {
+        "timestamp": "2026-06-08T20:09:44.073Z",
+        "players": 47
+      },
+      {
+        "timestamp": "2026-06-08T20:10:44.073Z",
+        "players": 47
+      },
+      {
+        "timestamp": "2026-06-08T20:11:44.073Z",
+        "players": 49
+      },
+      {
+        "timestamp": "2026-06-08T20:12:44.073Z",
+        "players": 49
+      },
+      {
+        "timestamp": "2026-06-08T20:13:44.073Z",
+        "players": 48
+      },
+      {
+        "timestamp": "2026-06-08T20:14:44.073Z",
+        "players": 49
+      },
+      {
+        "timestamp": "2026-06-08T20:15:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:16:44.073Z",
+        "players": 49
+      },
+      {
+        "timestamp": "2026-06-08T20:17:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:18:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:19:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:20:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:21:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:22:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:23:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:24:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:25:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:26:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:27:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:28:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:29:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:30:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:31:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:32:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:33:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:34:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:35:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:36:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:37:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:38:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:39:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:40:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:41:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:42:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:43:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:44:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:45:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:46:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:47:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:48:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:49:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:50:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:51:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:52:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:53:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:54:44.073Z",
+        "players": 50
+      },
+      {
+        "timestamp": "2026-06-08T20:55:44.073Z",
+        "players": 49
+      },
+      {
+        "timestamp": "2026-06-08T20:56:44.073Z",
+        "players": 49
+      },
+      {
+        "timestamp": "2026-06-08T20:57:44.073Z",
+        "players": 49
+      },
+      {
+        "timestamp": "2026-06-08T20:58:44.073Z",
+        "players": 48
+      },
+      {
+        "timestamp": "2026-06-08T20:59:44.073Z",
+        "players": 48
+      },
+      {
+        "timestamp": "2026-06-08T21:00:44.073Z",
+        "players": 48
+      },
+      {
+        "timestamp": "2026-06-08T21:01:44.073Z",
+        "players": 48
+      },
+      {
+        "timestamp": "2026-06-08T21:02:44.073Z",
+        "players": 47
+      },
+      {
+        "timestamp": "2026-06-08T21:03:44.073Z",
+        "players": 47
+      },
+      {
+        "timestamp": "2026-06-08T21:04:44.073Z",
+        "players": 46
+      },
+      {
+        "timestamp": "2026-06-08T21:05:44.073Z",
+        "players": 46
+      },
+      {
+        "timestamp": "2026-06-08T21:06:44.073Z",
+        "players": 46
+      },
+      {
+        "timestamp": "2026-06-08T21:07:44.073Z",
+        "players": 45
+      },
+      {
+        "timestamp": "2026-06-08T21:08:44.073Z",
+        "players": 45
+      },
+      {
+        "timestamp": "2026-06-08T21:09:44.073Z",
+        "players": 44
+      },
+      {
+        "timestamp": "2026-06-08T21:10:44.073Z",
+        "players": 44
+      },
+      {
+        "timestamp": "2026-06-08T21:11:44.073Z",
+        "players": 43
+      },
+      {
+        "timestamp": "2026-06-08T21:12:44.073Z",
+        "players": 42
+      },
+      {
+        "timestamp": "2026-06-08T21:13:44.073Z",
+        "players": 42
+      },
+      {
+        "timestamp": "2026-06-08T21:14:44.073Z",
+        "players": 43
+      }
+    ]
+  },
+  {
+    "name": "GG Farm",
+    "gameId": "gg-farm",
+    "players": 14,
+    "game24hrPeak": 15,
+    "record": 18,
+    "recordDate": "2026-04-25T21:10:00.000Z",
+    "playerCounts": [
+      {
+        "timestamp": "2026-06-08T19:15:44.073Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T19:16:44.073Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:17:44.073Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T19:18:44.073Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:19:44.073Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:20:44.073Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:21:44.073Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:22:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:23:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:24:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:25:44.073Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:26:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:27:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:28:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:29:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:30:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:31:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:32:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:33:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:34:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:35:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:36:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:37:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:38:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:39:44.073Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:40:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:41:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:42:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:43:44.073Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:44:44.073Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:45:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:46:44.073Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:47:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:48:44.073Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:49:44.073Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:50:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:51:44.073Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:52:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:53:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:54:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:55:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:56:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:57:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:58:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:59:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:00:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:01:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:02:44.073Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:03:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:04:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:05:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:06:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:07:44.073Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:08:44.073Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T20:09:44.073Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T20:10:44.073Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:11:44.073Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:12:44.073Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:13:44.073Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:14:44.073Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:15:44.073Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:16:44.073Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T20:17:44.073Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T20:18:44.073Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T20:19:44.073Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:20:44.073Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:21:44.073Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T20:22:44.073Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:23:44.073Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:24:44.073Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:25:44.073Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T20:26:44.073Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T20:27:44.073Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T20:28:44.073Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T20:29:44.073Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T20:30:44.073Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T20:31:44.073Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T20:32:44.073Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T20:33:44.073Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T20:34:44.073Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T20:35:44.073Z",
+        "players": 12
+      },
+      {
+        "timestamp": "2026-06-08T20:36:44.073Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T20:37:44.073Z",
+        "players": 12
+      },
+      {
+        "timestamp": "2026-06-08T20:38:44.073Z",
+        "players": 12
+      },
+      {
+        "timestamp": "2026-06-08T20:39:44.073Z",
+        "players": 12
+      },
+      {
+        "timestamp": "2026-06-08T20:40:44.073Z",
+        "players": 12
+      },
+      {
+        "timestamp": "2026-06-08T20:41:44.073Z",
+        "players": 12
+      },
+      {
+        "timestamp": "2026-06-08T20:42:44.073Z",
+        "players": 13
+      },
+      {
+        "timestamp": "2026-06-08T20:43:44.073Z",
+        "players": 13
+      },
+      {
+        "timestamp": "2026-06-08T20:44:44.073Z",
+        "players": 13
+      },
+      {
+        "timestamp": "2026-06-08T20:45:44.073Z",
+        "players": 13
+      },
+      {
+        "timestamp": "2026-06-08T20:46:44.073Z",
+        "players": 13
+      },
+      {
+        "timestamp": "2026-06-08T20:47:44.073Z",
+        "players": 13
+      },
+      {
+        "timestamp": "2026-06-08T20:48:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:49:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:50:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:51:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:52:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:53:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:54:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:55:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:56:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:57:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T20:58:44.073Z",
+        "players": 15
+      },
+      {
+        "timestamp": "2026-06-08T20:59:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:00:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:01:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:02:44.073Z",
+        "players": 15
+      },
+      {
+        "timestamp": "2026-06-08T21:03:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:04:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:05:44.073Z",
+        "players": 15
+      },
+      {
+        "timestamp": "2026-06-08T21:06:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:07:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:08:44.073Z",
+        "players": 15
+      },
+      {
+        "timestamp": "2026-06-08T21:09:44.073Z",
+        "players": 15
+      },
+      {
+        "timestamp": "2026-06-08T21:10:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:11:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:12:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:13:44.073Z",
+        "players": 14
+      },
+      {
+        "timestamp": "2026-06-08T21:14:44.073Z",
+        "players": 14
+      }
+    ]
+  },
+  {
+    "name": "Catch a Fish!",
+    "gameId": "catch-a-fish",
+    "players": 11,
+    "game24hrPeak": 11,
+    "record": 13,
+    "recordDate": "2026-04-29T13:42:00.000Z",
+    "playerCounts": [
+      {
+        "timestamp": "2026-06-08T19:15:44.074Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T19:16:44.074Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T19:17:44.074Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T19:18:44.074Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T19:19:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T19:20:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T19:21:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T19:22:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T19:23:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T19:24:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T19:25:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T19:26:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T19:27:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T19:28:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T19:29:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T19:30:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T19:31:44.074Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T19:32:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T19:33:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T19:34:44.074Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T19:35:44.074Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T19:36:44.074Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T19:37:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T19:38:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T19:39:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T19:40:44.074Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:41:44.074Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:42:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T19:43:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:44:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:45:44.074Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T19:46:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:47:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:48:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:49:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:50:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:51:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T19:52:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:53:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:54:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T19:55:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:56:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:57:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:58:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T19:59:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:00:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:01:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:02:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:03:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:04:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:05:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:06:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:07:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:08:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:09:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:10:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:11:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:12:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:13:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:14:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:15:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:16:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:17:44.074Z",
+        "players": 1
+      },
+      {
+        "timestamp": "2026-06-08T20:18:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:19:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:20:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:21:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:22:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:23:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:24:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:25:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:26:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:27:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:28:44.074Z",
+        "players": 2
+      },
+      {
+        "timestamp": "2026-06-08T20:29:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:30:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:31:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:32:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:33:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:34:44.074Z",
+        "players": 3
+      },
+      {
+        "timestamp": "2026-06-08T20:35:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:36:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:37:44.074Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T20:38:44.074Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T20:39:44.074Z",
+        "players": 4
+      },
+      {
+        "timestamp": "2026-06-08T20:40:44.074Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T20:41:44.074Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T20:42:44.074Z",
+        "players": 5
+      },
+      {
+        "timestamp": "2026-06-08T20:43:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:44:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:45:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:46:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:47:44.074Z",
+        "players": 6
+      },
+      {
+        "timestamp": "2026-06-08T20:48:44.074Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T20:49:44.074Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T20:50:44.074Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T20:51:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:52:44.074Z",
+        "players": 7
+      },
+      {
+        "timestamp": "2026-06-08T20:53:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:54:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:55:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:56:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:57:44.074Z",
+        "players": 8
+      },
+      {
+        "timestamp": "2026-06-08T20:58:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T20:59:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T21:00:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T21:01:44.074Z",
+        "players": 9
+      },
+      {
+        "timestamp": "2026-06-08T21:02:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T21:03:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T21:04:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T21:05:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T21:06:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T21:07:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T21:08:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T21:09:44.074Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T21:10:44.074Z",
+        "players": 10
+      },
+      {
+        "timestamp": "2026-06-08T21:11:44.074Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T21:12:44.074Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T21:13:44.074Z",
+        "players": 11
+      },
+      {
+        "timestamp": "2026-06-08T21:14:44.074Z",
+        "players": 11
+      }
+    ]
+  }
+]
