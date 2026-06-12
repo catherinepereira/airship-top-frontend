@@ -1,6 +1,4 @@
-# Airship Player Count Tracker Backend (airship.top)
-
-<img width="2134" height="1249" alt="airshiptop" src="https://github.com/user-attachments/assets/bfea3f36-8eb8-4d78-a044-639a6591b435" />
+# Airship Player Count Tracker Backend
 
 ## Overview
 
