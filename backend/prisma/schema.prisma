@@ -1,0 +1,50 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model LatestTopGames {
+  id        Int      @id @default(autoincrement())
+  timestamp DateTime @default(now()) @unique
+  topGames  String[]
+}
+
+model Game {
+  gameId    String @id
+  name      String
+  icon      String
+
+  game24hrPeak  Int
+  record        Int
+  recordDate    DateTime
+
+  playerCounts PlayerCount[]
+}
+
+model PlayerCount {
+  id        Int      @id @default(autoincrement())
+  timestamp DateTime @default(now())
+  players   Int
+
+  gameId        String
+  game          Game        @relation(fields: [gameId], references: [gameId], onDelete: Cascade)
+
+  @@unique([gameId, timestamp])
+  @@index([gameId, timestamp])
+  @@index([timestamp])
+}
+
+model PlatformStats {
+  id            Int      @id @default(autoincrement())
+  timestamp     DateTime @default(now()) @unique
+  onlinePlayers Int
+
+  @@index([timestamp])
+}
